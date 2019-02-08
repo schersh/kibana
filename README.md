@@ -40,7 +40,7 @@ out an open PR:
 
 Visit [Elastic.co](http://www.elastic.co/guide/en/kibana/current/index.html) for the full Kibana documentation.
 
-For information about writing and building the documentation, see the README in [elastic/docs](https://github.com/elastic/docs) and [CONTRIBUTING.md](CONTRIBUTING.md).
+For information about writing and building the documentation, see the README in [elastic/docs](https://github.com/elastic/docs) and [CONTRIBUTING.md](CONTRIBUTING.md#writing-documentation).
 
 ## Version Compatibility with Elasticsearch
 
